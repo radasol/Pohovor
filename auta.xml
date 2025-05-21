@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<vozy>
+    <vuz>
+        <model>Škoda Oktávia</model>
+        <datum>2010-12-02</datum>
+        <cena>500.000,-</cena>
+        <dph>20</dph>
+    </vuz>
+    <vuz>
+        <model>Škoda Felicia</model>
+        <datum>2000-12-03</datum>
+        <cena>210.000,-</cena>
+        <dph>20</dph>
+    </vuz>
+    <vuz>
+        <model>Škoda Fabia</model>
+        <datum>2010-12-04</datum>
+        <cena>350.000,-</cena>
+        <dph>20</dph>
+    </vuz>
+    <vuz>
+        <model>Škoda Oktávia</model>
+        <datum>2010-12-04</datum>
+        <cena>500.000,-</cena>
+        <dph>20</dph>
+    </vuz>
+    <vuz>
+        <model>Škoda Oktávia</model>
+        <datum>2010-12-05</datum>
+        <cena>500.000,-</cena>
+        <dph>20</dph>
+    </vuz>
+    <vuz>
+        <model>Škoda Fabia</model>
+        <datum>2010-12-05</datum>
+        <cena>350.000,-</cena>
+        <dph>20</dph>
+    </vuz>
+    <vuz>
+        <model>Škoda Fabia</model>
+        <datum>2010-12-06</datum>
+        <cena>350.000,-</cena>
+        <dph>20</dph>
+    </vuz>
+    <vuz>
+        <model>Škoda Forman</model>
+        <datum>2000-12-04</datum>
+        <cena>100.000,-</cena>
+        <dph>19</dph>
+    </vuz>
+    <vuz>
+        <model>Škoda Favorit</model>
+        <datum>2000-12-05</datum>
+        <cena>80.000,-</cena>
+        <dph>19</dph>
+    </vuz>
+    <vuz>
+        <model>Škoda Forman</model>
+        <datum>2000-12-06</datum>
+        <cena>100.000,-</cena>
+        <dph>19</dph>
+    </vuz>
+    <vuz>
+        <model>Škoda Felicia</model>
+        <datum>2000-12-03</datum>
+        <cena>210.000,-</cena>
+        <dph>19</dph>
+    </vuz>
+    <vuz>
+        <model>Škoda Felicia</model>
+        <datum>2000-12-02</datum>
+        <cena>210.000,-</cena>
+        <dph>19</dph>
+    </vuz>
+    <vuz>
+        <model>Škoda Oktávia</model>
+        <datum>2010-12-07</datum>
+        <cena>500.000,-</cena>
+        <dph>20</dph>
+    </vuz>
+</vozy>
